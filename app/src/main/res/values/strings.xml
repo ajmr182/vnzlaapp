@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">VnzlaApp</string>
+    <string name="bs_to_dollar">Bs.-> $</string>
+    <string name="dollar_to_bs">$-> Bs.</string>
+    <string name="exchange_rates">Tasas de cambio</string>
+    <string name="calculate_your_amount">Calcula tu monto aquí</string>
+    <string name="calculate_your_amount_label">Monto a calcular</string>
+    <string name="bcv">BCV</string>
+    <string name="parallel">Paralelo</string>
+    <string name="average">Promedio</string>
+    <string name="calculate">Calcular</string>
+    <string name="try_again">Intentar de nuevo</string>
+    <string name="we_have_a_problem">Tenemos un problema</string>
+</resources>
